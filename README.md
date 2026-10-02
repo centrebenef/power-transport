@@ -1,6 +1,6 @@
 # Power Transport
 
-One-page responsive presentation site in French. The page uses plain HTML, CSS and JavaScript; no build step is required. Open `index.html` in a browser or serve this folder with any static web server.
+One-page responsive presentation site in French. The page uses plain HTML, CSS and JavaScript. Open `index.html` in a browser or serve this folder with any static web server. `package.json` provides a lightweight `yarn build` script for hosting platforms that expect a build command; the files are served from the repository root.
 
 ## Before publishing
 
